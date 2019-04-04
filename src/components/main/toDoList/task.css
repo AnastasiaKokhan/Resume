@@ -10,8 +10,8 @@
   }
   
   .box {
-    border: 2px solid #aaa719;
-    background-color: #d4d37f;
+    border: 2px solid #23055c;
+    background-color: #7fa1d4;
     margin-bottom: 20px;
     padding: 10px;
     width: 100%;
@@ -33,22 +33,22 @@
   }
   
   .btn.light {
-    background-color: #4eafc9;
-    border: 2px solid #2a89a2;
+    background-color: #59ee97;
+    border: 2px solid #0a5a0e;
   }
   
   .btn.red {
-    background-color: #dda66d;
-    border: 2px solid #b6821a;
+    background-color: #db6262;
+    border: 2px solid #b61a1a;
   }
   
   .btn.light:hover {
-    background-color: #2a89a2;
-    border-color: #1d6f85;
+    background-color: #59ee97;
+    border-color: #59ee97;
   }
   
   .btn.red:hover {
-    background-color: #b6821a;
-    border-color: #946912;
+    background-color: #db6262;
+    border-color: #db6262;
   }
   
