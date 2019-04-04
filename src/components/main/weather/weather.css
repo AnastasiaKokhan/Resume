@@ -1,0 +1,47 @@
+.wrapper {
+    border: 1px solid black;
+    width: 700px;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+input[type="text"] {
+   
+    border: 0;
+    border-bottom: solid 2px #113a65;
+    padding-bottom: 4px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 15px;
+    background-color: rgb(205, 219, 250);
+    
+  }
+  button {
+    border: 1px solid white;
+    padding: 8px 20px;
+    margin-top: 10px; 
+    margin-left: 20px;  
+    color: white;
+    background-color: rgb(50, 83, 180);
+    font-size: 15px;
+  }
+  
+  button:hover {
+    border: 1px solid white;
+    color: rgb(50, 83, 180);
+    background-color: rgb(194, 209, 247);
+  }
+  .forecast {
+    margin-left: 20px;
+    padding-top: 7px;
+    color: rgb(21, 22, 110);
+    font-size: 25px;
+  }
+  .weather-photo {
+    /* position: absolute; */
+    height: 300px;
+    width: 300px;
+    float: right;
+  }
+  

@@ -1,0 +1,67 @@
+.block {
+    background-color: white;
+    height: 250px;
+    float: left;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 20px;
+}
+.block-first {
+    background-color: white;
+    height: 245px;
+    float: left;
+    border: 1px solid black;
+    /* margin-top: 20px; */
+    margin: 5px;
+    border-radius: 20px;
+}
+.photo {
+    width: 260px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.name {
+    margin-top:20px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.job {
+    margin-top:12px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.topic {
+    margin-top:25px;
+    margin-left: 45px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+.text {
+    margin-top: 3px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.text-job {
+    margin-top: 8px;
+    margin-bottom: 5px;
+    margin-left: 45px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.text-thin {
+    margin-top: 3px;
+    margin-left: 25px;
+    font-size: 15px;
+}
+.data {
+    font-style: italic;
+    font-size: 15px;
+}

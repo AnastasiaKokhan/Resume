@@ -1,0 +1,21 @@
+.menu > ul > li {
+	float: left;
+    /* width: 25%; */
+	margin-left: 50px;
+}
+.menu > ul li > a {
+	display: block;
+	/* text-align: center; */
+	text-decoration: none;
+	font-size: 21px;
+    border: 1px solid rgb(255, 255, 255);
+	padding: 10px 30px;
+	font: italic bold 22px/1 Times, 'New Century Schoolbook', serif;
+	color: white;
+	margin-top: 25px;
+}
+.menu > ul li > a:hover {
+	border: 1px solid white;
+	background: white;
+	color: black;
+}
