@@ -6,7 +6,7 @@ class Resume extends Component {
 render() {
     return (
       <div className="resume">
-            <div className='col-40 block-first'><img className="photo" src='/images/photo.jpg' alt='photo_my'/></div>
+            <div className='col-40 block-first'><img className="photo" src='/images/213546.jpg' alt='photo_my'/></div>
             <div className='col-60 block-first'>
               <h1 className="name">Kokhan Anastasiia</h1>
               <p className='job'>Junior/Trainee Front-end developer</p>
